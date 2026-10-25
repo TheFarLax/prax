@@ -1,0 +1,61 @@
+{
+  "note": "Local production lab measurements, not field Core Web Vitals. INP requires representative interactions/field traffic. Indexing intentionally remains disabled until verified product launch content is supplied.",
+  "results": [
+    {
+      "mode": "mobile",
+      "url": "http://127.0.0.1:4173/",
+      "lighthouseVersion": "13.5.0",
+      "fetchTime": "2026-10-25T15:46:01.427Z",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      },
+      "scores": {
+        "performance": 92,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "metrics": {
+        "fcpMs": 788.34062,
+        "lcpMs": 2307.51093,
+        "cls": 0,
+        "tbtMs": 309,
+        "speedIndexMs": 1975.315533499097
+      }
+    },
+    {
+      "mode": "desktop",
+      "url": "http://127.0.0.1:4173/",
+      "lighthouseVersion": "13.5.0",
+      "fetchTime": "2026-10-25T15:46:25.927Z",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.0.0 Safari/537.36",
+      "throttling": {
+        "rttMs": 40,
+        "throughputKbps": 10240,
+        "requestLatencyMs": 0,
+        "downloadThroughputKbps": 0,
+        "uploadThroughputKbps": 0,
+        "cpuSlowdownMultiplier": 1
+      },
+      "scores": {
+        "performance": 98,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "metrics": {
+        "fcpMs": 243.31309999999996,
+        "lcpMs": 638.6261999999999,
+        "cls": 0,
+        "tbtMs": 130.99999999999994,
+        "speedIndexMs": 874.2473821835049
+      }
+    }
+  ]
+}

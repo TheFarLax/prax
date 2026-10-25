@@ -1,0 +1,132 @@
+{
+  "base": "http://127.0.0.1:3001",
+  "originalWidth": 1440,
+  "measurements": [
+    {
+      "zoomPercent": 200,
+      "route": "/",
+      "viewport": 720,
+      "devicePixelRatio": 2,
+      "documentWidth": 720,
+      "contentWidth": 712,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 200,
+      "route": "/features",
+      "viewport": 720,
+      "devicePixelRatio": 2,
+      "documentWidth": 720,
+      "contentWidth": 712,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 200,
+      "route": "/xasri-ai",
+      "viewport": 720,
+      "devicePixelRatio": 2,
+      "documentWidth": 720,
+      "contentWidth": 712,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 200,
+      "route": "/download",
+      "viewport": 720,
+      "devicePixelRatio": 2,
+      "documentWidth": 720,
+      "contentWidth": 712,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 200,
+      "route": "/support",
+      "viewport": 720,
+      "devicePixelRatio": 2,
+      "documentWidth": 720,
+      "contentWidth": 712,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 200,
+      "route": "/privacy",
+      "viewport": 720,
+      "devicePixelRatio": 2,
+      "documentWidth": 720,
+      "contentWidth": 712,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 200,
+      "route": "/terms",
+      "viewport": 720,
+      "devicePixelRatio": 2,
+      "documentWidth": 720,
+      "contentWidth": 712,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 400,
+      "route": "/",
+      "viewport": 360,
+      "devicePixelRatio": 4,
+      "documentWidth": 360,
+      "contentWidth": 356,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 400,
+      "route": "/features",
+      "viewport": 360,
+      "devicePixelRatio": 4,
+      "documentWidth": 360,
+      "contentWidth": 356,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 400,
+      "route": "/xasri-ai",
+      "viewport": 360,
+      "devicePixelRatio": 4,
+      "documentWidth": 360,
+      "contentWidth": 356,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 400,
+      "route": "/download",
+      "viewport": 360,
+      "devicePixelRatio": 4,
+      "documentWidth": 360,
+      "contentWidth": 356,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 400,
+      "route": "/support",
+      "viewport": 360,
+      "devicePixelRatio": 4,
+      "documentWidth": 360,
+      "contentWidth": 356,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 400,
+      "route": "/privacy",
+      "viewport": 360,
+      "devicePixelRatio": 4,
+      "documentWidth": 360,
+      "contentWidth": 356,
+      "clipped": []
+    },
+    {
+      "zoomPercent": 400,
+      "route": "/terms",
+      "viewport": 360,
+      "devicePixelRatio": 4,
+      "documentWidth": 360,
+      "contentWidth": 356,
+      "clipped": []
+    }
+  ]
+}
